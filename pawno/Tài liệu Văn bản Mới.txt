@@ -1,0 +1,28 @@
+echo Executing Server Config...
+lanmode 1
+rcon 0
+rcon_password 189730218978012323123
+maxplayers 200
+port 7777
+hostname GOSAMP | Tham gia nhan qua !!!
+gamemode0 sf-pro 1
+plugins sscanf.so streamer.so mysql.so whirlpool.so FCNPC.so mapandreas.so
+filterscripts animlist death playerexterior playerinterior hotel server dancefloor vipo
+announce 0
+query 1
+chatlogging 0
+weburl forum.gosamp.net
+onfoot_rate 80
+incar_rate 80
+weapon_rate 80
+stream_distance 300.0
+stream_rate 1000
+maxnpc 10
+logtimeformat [%H:%M:%S]
+language fb.com/groups/gosamp.net
+mapname San Andreas
+password
+messageslimit 5000
+ackslimit 5000
+messageholelimit 5000
+useartwork 1

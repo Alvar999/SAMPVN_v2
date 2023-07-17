@@ -1,0 +1,100 @@
+AddCharModel(294, 20300, "fam3.dff", "fam3.txd");
+AddCharModel(294, 20301, "omyst.dff", "omyst.txd");
+AddCharModel(294, 20302, "ZKIN.dff", "ZKIN.txd");
+AddCharModel(294, 20303, "trudmgyauso.dff", "trudmgyauso.txd");
+AddCharModel(294, 20304, "Taliban.dff", "Taliban.txd");
+AddCharModel(294, 20305, "Lufy.dff", "Lufy.txd");
+AddCharModel(294, 20306, "bmybu.dff", "bmybu.txd");
+AddCharModel(294, 20307, "SSHush.dff", "SSHush.txd");
+AddCharModel(294, 20308, "army.dff", "army.txd");
+AddCharModel(294, 20309, "ffreydelanoche.dff", "ffreydelanoche.txd");
+AddCharModel(294, 20310, "andre.dff", "andre.txd");
+AddCharModel(294, 20311, "Carnage.dff", "Carnage.txd");
+AddCharModel(294, 20312, "TheGrefgFortnite.dff", "TheGrefgFortnite.txd");
+AddCharModel(294, 20313, "swmotr5.dff", "swmotr5.txd");
+AddCharModel(294, 20314, "LeonKS.dff", "LeonKS.txd");
+AddCharModel(294, 20315, "OBITO.dff", OBITO.txd");
+AddCharModel(241, 20316, "ChicoBestia.dff", "ChicoBestia.txd");
+AddCharModel(241, 20317, "Zoro.dff", "Zoro.txd");
+AddCharModel(241, 20318, "skinoya.dff", "skinoya.txd");
+AddCharModel(241, 20319, "lvpd1.dff", "lvpd1.txd");
+AddCharModel(241, 20320, "20319.dff", "20319.txd");
+AddCharModel(241, 20321, "Garen.dff", "Garen.txd");
+AddCharModel(241, 20322, "Miku.dff", "Miku.txd");
+AddCharModel(241, 20323, "itachi1.dff", "itachi1.txd");
+AddCharModel(241, 20324, "skinguildlapd1.dff", "skinguildlapd1.txd");
+AddCharModel(241, 20325, "Deadpool.dff", "Deadpool.txd");
+AddCharModel(241, 20326, "bmybe.dff", "bmybe.txd");
+
+AddCharModel(281, 20400, "skinarmy.dff", "skinarmy.txd");
+AddCharModel(281, 20401, "fbi.dff", "fbi.txd");
+AddCharModel(281, 20402, "skincops.dff", "skincops.txd");
+AddCharModel(281, 20403, "sfpd1.dff", "sfpd1.txd");
+AddCharModel(281, 20404, "hern.dff", "hern.txd");
+AddCharModel(281, 20405, "swat.dff", "swat.txd");tenpen
+AddCharModel(281, 20406, "tenpen.dff", "tenpen.txd");
+
+AddSimpleModel(-1,1000, -1000, "gun_para.dff", "gun_para.txd");
+AddSimpleModel(-1,1000, -1001, "gun_para3.dff", "gun_para3.txd");
+AddSimpleModel(-1,1000, -1002, "wings.dff", "wings.txd");
+AddSimpleModel(-1,1000, -1003, "shovel.dff", "shovel.txd");
+AddSimpleModel(-1,1000, -1004, "toyskatana.dff", "toyskatana.txd");
+AddSimpleModel(-1,1000, -1005, "toyskatana2.dff", "toyskatana2.txd");
+
+AddSimpleModel(-1, 19377, -2000, "object.dff", "shop.txd");
+AddSimpleModel(-1, 19377, -2001, "object.dff", "menusampvn.txd");
+AddSimpleModel(-1, 19377, -2002, "object.dff", "VQMM.txd");
+AddSimpleModel(-1, 19377, -2003, "object.dff", "skinsung.txd");
+AddSimpleModel(-1, 19377, -2004, "object.dff", "RankSAMPVN.txd");
+
+AddSimpleModel(-1,19377, -5000, "HQMXcong.dff", "HQMXcong.txd");
+AddSimpleModel(-1,19377, -5001, "HQMXbancongduoi.dff", "HQMXbancongduoi.txd");
+AddSimpleModel(-1,19377, -5002, "HQMXbancongtren.dff", "HQMXbancongtren.txd");
+AddSimpleModel(-1,19377, -5003, "HQMXsan.dff", "HQMXsan.txd");
+AddSimpleModel(-1,19377, -5004, "HQMXcaurong.dff", "HQMXcaurong.txd");
+AddSimpleModel(-1,19377, -5005, "HQMXnoc.dff", "HQMXnoc.txd");
+AddSimpleModel(-1,19377, -5006, "HQMXtruocsau.dff", "HQMXtruocsau.txd");
+AddSimpleModel(-1,19377, -5007, "HQMXgiua.dff", "HQMXgiua.txd");
+AddSimpleModel(-1,19377, -5008, "HQMXhangrao.dff", "HQMXhangrao.txd");
+AddSimpleModel(-1,19377, -5009, "HQMXtraiphai.dff", "HQMXtraiphai.txd")
+
+AddSimpleModel(-1,18865, -3000, "v1-1.dff", "v1-1.txd");
+AddSimpleModel(-1,18865, -3001, "neon.dff", "v2.txd");
+AddSimpleModel(-1,18865, -3002, "neon.dff", "1.txd");
+AddSimpleModel(-1,18865, -3003, "neon.dff", "2.txd");
+AddSimpleModel(-1,18865, -3004, "neon.dff", "3.txd");
+AddSimpleModel(-1,18865, -3005, "neon.dff", "4.txd");
+AddSimpleModel(-1,18865, -3006, "neon.dff", "5.txd");
+AddSimpleModel(-1,18865, -3007, "neon.dff", "neon.txd");
+AddSimpleModel(-1,18865, -3008, "neon.dff", "neon2.txd");
+AddSimpleModel(-1,18865, -3009, "neon.dff", "neon3.txd");
+AddSimpleModel(-1,18865, -3010, "neon.dff", "neon4.txd");
+AddSimpleModel(-1,18865, -3011, "neon.dff", "neon5.txd");
+AddSimpleModel(-1,18865, -3012, "neon.dff", "neon6.txd");
+AddSimpleModel(-1,18865, -3013, "bmw.dff", "bmw.txd");
+AddSimpleModel(-1,18865, -3014, "bmw.dff", "bmw1.txd");
+AddSimpleModel(-1,18865, -3015, "h2r.dff", "h2r.txd");
+AddSimpleModel(-1,18865, -3016, "freeway.dff", "freeway.txd");
+AddSimpleModel(-1,18865, -3017, "sultan.dff", "sultan.txd");
+AddSimpleModel(-1,18865, -3018, "sultan.dff", "sultan1.txd");
+AddSimpleModel(-1,18865, -3019, "sultan.dff", "sultan2.txd");
+AddSimpleModel(-1,18865, -3020, "sultan.dff", "sultan3.txd");
+AddSimpleModel(-1,18865, -3021, "sultan.dff", "sultan4.txd");
+
+
+AddSimpleModel(-1,1000, -4000, "m4.dff", "m4.txd");
+AddSimpleModel(-1,1000, -4001, "mp5lng.dff", "mp5lng.txd");
+AddSimpleModel(-1,1000, -4002, "sniper.dff", "sniper.txd");
+AddSimpleModel(-1,1000, -4003, "desert_eagle.dff", "desert_eagle.txd");
+AddSimpleModel(-1,1000, -4004, "shotgspa.dff", "shotgspa.txd");
+AddSimpleModel(-1,1000, -4005, "chromegun.dff", "chromegun.txd");
+AddSimpleModel(-1,1000, -4006, "ak47.dff", "ak47.txd");
+AddSimpleModel(-1,1000, -4007, "micro_uzi.dff", "micro_uzi.txd");
+AddSimpleModel(-1,1000, -4008, "rifle.dff", "rifle.txd");
+AddSimpleModel(-1,1000, -4010, "M4RegDragon.dff", "M4RegDragon.txd");
+AddSimpleModel(-1,1000, -4011, "M4BlueDragon.dff", "M4BlueDragon.txd");
+
+AddSimpleModel(-1,1000, -4020, "Alligator.dff", "Alligator.txd");
+AddSimpleModel(-1,1000, -4021, "voisatthu.dff", "voisatthu.txd");
+AddSimpleModel(-1,1000, -4022, "lunggu.dff", "lunggu.txd");
+
